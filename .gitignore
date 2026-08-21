@@ -1,0 +1,14 @@
+# Generated inventory reports may contain environment-specific information.
+*inventory*.md
+!examples/sanitized-inventory.example.md
+
+# Common local files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# Editors
+.idea/
+.vscode/
